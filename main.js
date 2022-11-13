@@ -10,6 +10,7 @@ let textInput = document.getElementById("form1");
 //Associating a Listening event to the saveButton
 let saveButton = document.getElementById("button");
 saveButton.addEventListener("click", addTask);
+ 
 
 //// Function displaying LocalStorage content//////////////////////////////////////////////////////
 
