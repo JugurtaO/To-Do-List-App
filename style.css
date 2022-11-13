@@ -53,3 +53,25 @@
 
 
 
+.git {
+    margin-top: 5px;
+    margin-right: 10px;
+}
+
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color:#212529;
+    height: 40px;
+
+   
+}
+
+.author{
+    margin-top: 5px;
+    margin-left: 5px;
+    color:white;
+
+
+}
