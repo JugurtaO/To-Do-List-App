@@ -1,0 +1,78 @@
+#form1{
+    width: 250px;
+}
+
+.col-12{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+
+
+#me{
+    font-family: 'Chakra Petch', sans-serif;
+    font-size: 25px;
+}
+
+#button{
+   background-color: #87CEEB;
+   width: 55px;
+   color: white;
+   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-size: 20px;
+   border: 2px solid #87CEEB;
+   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+   border-radius: 5px;
+   padding-bottom: 5px;
+   
+    
+}
+.delete{
+    background-color: #810404;
+    width: 75px;
+    color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 2px solid #810404;
+   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+   border-radius: 5px;
+
+}
+
+
+.finished{
+    background-color: #04812e;
+    width: 75px;
+    color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 2px solid #04812e;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    border-radius: 5px;
+
+}
+
+
+
+.git {
+    margin-top: 5px;
+    margin-right: 10px;
+}
+ 
+
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color:#212529;
+    height: 40px;
+
+   
+}
+
+.author{
+    margin-top: 5px;
+    margin-left: 5px;
+    color:white;
+
+
+}
